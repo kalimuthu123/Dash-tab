@@ -1,0 +1,13 @@
+Package: dashTab
+Title: the side menu tabbed component
+Version: 0.0.1
+Description: the side menu tabbed component
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: 
+BugReports: 
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
